@@ -1,13 +1,13 @@
 <h1 align="center">👋 Guihome</h1>
 <h3 align="center">Développeur web passionné</h3>
 
-- 🔭 Je travaille ici [Telecommande Express](https://www.telecommande-express.com/?gclid=CjwKCAiA9aKQBhBREiwAyGP5lYk9ABJcXJ4oiheVG113fJLNjTt72nGFX1MXE5mdSfpcVNnd50803BoC-4IQAvD_BwE)
-
-- 🌱 Mon temps libre **Initiation à Python**
+- 🔭 J'ai travaillé ici [Telecommande Express](https://www.telecommande-express.com/?gclid=CjwKCAiA9aKQBhBREiwAyGP5lYk9ABJcXJ4oiheVG113fJLNjTt72nGFX1MXE5mdSfpcVNnd50803BoC-4IQAvD_BwE)
 
 - 👯 j'ai travaillé là [Paygreen](https://paygreen.io/)
 
 - 🤝 Ou encore là [Profideo](https://www.profideo.com/)
+
+-  🌱 Mon temps libre => **Initiation à Python**
 
 - 👨‍💻 Mon Portfolio [https://guihome02.github.io/](https://guihome02.github.io/)
 
