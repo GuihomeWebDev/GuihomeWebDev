@@ -11,7 +11,7 @@
 
 - 👨‍💻 Mon Portfolio [https://guihome02.github.io/](https://guihome02.github.io/)
 
-- 💬 ce que j'aime lire **la doc symfony :) mais pas que...**
+- 💬 ce que j'aime lire => **la doc symfony :) mais pas que...**
 
 - 📫 Me contacter **lebot.guihome@gmail.com**
 
