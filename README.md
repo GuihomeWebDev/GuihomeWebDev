@@ -13,7 +13,7 @@
 
 - 💬 ce que j'aime lire => **la doc symfony :) mais pas que...**
 
-- 📫 Me contacter **lebot.guihome@gmail.com**
+- 📫 Me contacter **guillaume.lebot@yahoo.com**
 
 - 📄 Mon cv en ligne [https://guihomewebdev.github.io/](https://guihomewebdev.github.io/)
 
